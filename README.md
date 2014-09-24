@@ -1,7 +1,7 @@
   [Course Details](#course-details)   
 - [Aims and objectives](#aims-and-objectives)    
 - [Course Structure](#course-structure)    
-- [Prerequisites and Restrictions](#prerequisites-and-Restrictions)    
+- [Prerequisites and Restrictions](#prerequisites-and-restrictions)    
 - [Summary of teaching and learning outcomes](#summary-of-teaching-and-learning-outcomes)   
 - [Academic Integrity](#academic-integrity)
 - [Required Reading](#required-reading)
@@ -9,18 +9,29 @@
 - [Assessment](#assessment)
 
 
-[Schedule](#schedule) 
-- [Week 1. Practicum](#week-1-internet-practicum)
-- [Week 2. The curiously sinister beginnings of mass media](#week-2-the-curiously-sinister-beginnings-of-the-mass-media)   
-- [Week 3. Early social science of the media](#week-3-early-social-science-of-the-media)     
-- [Week 4. The rise of an institutionalized mainstream in the social science of the media](#week-4-the-rise-of-an-institutionalized-mainstream-in-the-social-science-of-the-media)
-- [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
-- [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
-- [Week 7. Are the mass media shaped by political institutions?](#week-7-are-the-mass-media-shaped-by-political-institutions)   
-- [Week 8. Are the mass media shaped by economic institutions?](#week-8-are-the-mass-media-shaped-by-economic-institutions)  
-- [Week 9. How do the mass media represent different groups?](#week-9-how-do-the-mass-media-represent-different-groups)
-- [Week 10. Do the internet and social media lead to revolution against authoritarian regimes?](#week-10-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
-- [Week 11. Or do all media just make states stronger and more oppressive?](#week-11-or-do-all-media-just-make-states-stronger-and-more-oppressive)
+
+[Schedule](#schedule)
+
+**Part 1**: Democracy and Public Policy?
+
+- [Week 1. Introduction (29/09/14)](#week-1-introduction)
+- [Week 2. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-2-contemporary-public-policy-in-historical perspective-i)   
+- [Week 3. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-3-contemporary-public-policy-in-historical perspective-ii)   
+- [Week 4. Public Management and Democracy: Friends or Enemies in Public Service Provision? (Stoker, 20/10/14)](#week-4-public-management-and-democracy)
+- [Week 5. Long-Term Thinking in Public Policy and Democracy (Stoker, 27/10/14)](#week-5-long-term-thinking-in-public-policy-and-democracy)  
+
+** Part 2**: Policy for Democracy
+
+- [Week 6. Public Policy Under Globalization (Murphy, 3/11/14)](#week-6-public-policy-under-globalization)   
+- [Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy? (Stoker, 10/11/14)](#week-7-does-fast-thinking-undermine-the-prospects-for-both-democracy-and-public-policy)   
+- [Week 8. Is Public Policy Responsive to Public Opinion? (Murphy, 17/11/14)](#week-8-is-public-policy-responsive-to-public-opinion)  
+- [Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform (Stoker, 24/11/14)](#week-9-competing-theories-of-democratic-failure-and-designing-policies-for-democratic-reform)
+
+**Part 3:  Connecting Theory and Practice**
+
+Week 10. Presentations I  01/12/14
+Week 11. Presentations II 08/12/14 
+Week 12. Closing Session 05/01/15
 
 ### Course Details
 

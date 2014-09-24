@@ -7,31 +7,29 @@
 - [Required Reading](#required-reading)
 - [Feedback to and from Students](#feedback-to-and-from-students)
 - [Assessment](#assessment)
+- [Essay Questions](#essay-questions)
+- [Case Studies](#case-studies)
 
 
+[Schedule](#schedule)   
 
-[Schedule](#schedule)
-
-**Part 1**: Democracy and Public Policy?
-
-- [Week 1. Introduction (29/09/14)](#week-1-introduction)
-- [Week 2. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-2-contemporary-public-policy-in-historical perspective-i)   
-- [Week 3. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-3-contemporary-public-policy-in-historical perspective-ii)   
-- [Week 4. Public Management and Democracy: Friends or Enemies in Public Service Provision? (Stoker, 20/10/14)](#week-4-public-management-and-democracy)
+Part 1: Democracy and Public Policy?    
+- [Week 1. Introduction (29/09/14)](#week-1-introduction)   
+- [Week 2. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-2-contemporary-public-policy-in-historical-perspective-i)   
+- [Week 3. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-3-contemporary-public-policy-in-historical-perspective-ii)   
+- [Week 4. Public Management and Democracy: Friends or Enemies in Public Service Provision? (Stoker, 20/10/14)](#week-4-public-management-and-democracy)    
 - [Week 5. Long-Term Thinking in Public Policy and Democracy (Stoker, 27/10/14)](#week-5-long-term-thinking-in-public-policy-and-democracy)  
 
-** Part 2**: Policy for Democracy
-
+Part 2: Policy for Democracy    
 - [Week 6. Public Policy Under Globalization (Murphy, 3/11/14)](#week-6-public-policy-under-globalization)   
 - [Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy? (Stoker, 10/11/14)](#week-7-does-fast-thinking-undermine-the-prospects-for-both-democracy-and-public-policy)   
-- [Week 8. Is Public Policy Responsive to Public Opinion? (Murphy, 17/11/14)](#week-8-is-public-policy-responsive-to-public-opinion)  
+- [Week 8. Is Public Policy Responsive to Public Opinion? (Murphy, 17/11/14)](#week-8-is-public-policy-responsive-to-public-opinion)   
 - [Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform (Stoker, 24/11/14)](#week-9-competing-theories-of-democratic-failure-and-designing-policies-for-democratic-reform)
 
-**Part 3:  Connecting Theory and Practice**
-
-Week 10. Presentations I  01/12/14
-Week 11. Presentations II 08/12/14 
-Week 12. Closing Session 05/01/15
+Part 3:  Connecting Theory and Practice    
+Week 10. Presentations I  01/12/14     
+Week 11. Presentations II 08/12/14     
+Week 12. Closing Session 05/01/15    
 
 ### Course Details
 
@@ -49,7 +47,7 @@ Thursday 10am - 12pm
 **Lecturer:** Gerry Stoker, PhD    
 **Email:** G.Stoker@soton.ac.uk   
 **Twitter:** [@ProfStoker](http://twitter.com/profstoker)   
-**Office:** Building 58, Room 3083   
+**Office:** Building 58, Room 3099   
 **Contact and feedback hours:**   
 Monday 11am - 1pm   
 Thursday 10am - 12pm 
@@ -59,13 +57,13 @@ Thursday 10am - 12pm
 
 #### Aims and Objectives
 
-This module provides a Master's level introduction to how and why public policy is produced, interrogating the conditions under which "public" is perhaps only a euphemism and the ways in which the democratic quality of public policymaking can be improved. It looks at emerging trends and ideas in the policy world about how to orient the policy process more towards the public, and critically examines the desirability and plausibility of many of these moves. The course will draw upon real-world examples to illuminate academic debates, encouraging students to make links between theory and practice.
+This module provides a master's level introduction to complex relationship between democracy and public policy. Can democracies deliver long-term policy making?  Does policy making rely on the exclusion of certain interests and therefore run counter to democratic demands? Are the complex processes of delivering policy such that public service provision can meet democratic norms?  The course will draw upon real-world examples to illuminate academic debates, encouraging students to make links between theory and practice.
 
 The course aims to familiarise students with key arguments about inclusion and exclusion in public policymaking, and to give them the tools required to critically analyse them. The theoretical/conceptual material is complemented by empirical cases studies of real-world issues in public policy. Where appropriate, students will also be introduced to academic scholarship which sometimes challenges the intentions and expectations of bureaucrats, activists, policymakers, and mass publics. The case studies will make use of primary policy documents – such as government white papers, parliamentary papers, think tank reports etc. – which help contextualize the academic material, and expose students to ‘real world’ policy making.
 
 #### Course Structure
 
-The module is delivered through a series of 12 two-hour seminars. Across the span of twelve 2-hour seminar sessions, a range of topics related to the overarching theme will be explored. The co-convenors will outline alternative viewpoints each week, encouraging students to engage deeply and critically with the material. This handbook outlines a series of theoretical questions for discussion in the seminar, as well as specific questions/tasks in relation to the case material. In preparation for each seminar, please attempt to read as many of the core readings as possible as well as looking at and/or helping to develop the case materials for each week, as these will form the basis of discussions. We have endeavoured to make sure that most are available electronically so they will be easily accessible. The additional readings are provided for each week if you wish to read further into a topic, such as in relation to the assessed essay or the case study.    
+The module is delivered through a series of 12 two-hour seminars. Across the span of twelve 2-hour seminar sessions, a range of topics related to the overarching theme will be explored. The co-convenors will outline alternative viewpoints each week, encouraging students to engage deeply and critically with the material. This handbook outlines a series of questions for discussion in the seminar, as well as specific questions/tasks in relation to the case material. In preparation for each seminar, please attempt to read as many of the core readings as possible as well as looking at and/or helping to develop the case materials for each week, as these will form the basis of discussions. We have endeavoured to make sure that most are available electronically so they will be easily accessible. The additional readings are provided for each week if you wish to read further into a topic, such as in relation to the assessed essay or the case study.    
 
 This handbook is your guide to the material covered on the course, but please check Blackboard regularly for new materials that have been added (readings and multimedia will be uploaded there) and announcements (which will also be sent via email).
 
@@ -135,147 +133,271 @@ Extensions can only be arranged by meeting with the MSc Coordinator (Dr Pia Rigg
 
 All coursework must be typed or word processed, 1.5 line-spaced, contain a bibliography, and use the Harvard style of referencing.
 
+#### Essay Questions
+For your essay you are required to select one of the following titles. You should write a maximum of 4000 words (excluding references).  
+
+- Is the growing enthusiasm around the ‘democratisation’ of the policy process justified?
+- The public agenda does not represent the policy preferences and priorities of the demos. Discuss.
+- Can and should lay citizens be engaged directly in the policy process much more often?
+- Does the shift towards collaborative governance strengthen or weaken public involvement in the policy process?
+- What has been the impact of the growing emphasis on greater transparency and accountability in government?
+- Digital technologies can democratise the processes of governance. Discuss.
+
+#### Case Studies
+
+The case study involves an in-depth analysis of a selected policy issue or program, providing an assessment of the ways in which the issue or program enables or discourages public inclusion. In particular, case studies should explore one of the four key sub-themes developed in the course in great depth, assessing both the more optimistic and pessimistic implications for the democratisation of the policy process.
+
+
 ### Schedule
 =====================================
 
 The seminars, other than the introductory week and the sessions devoted to student presentations, will be led by one of the two lecturers on an alternating basis, engendering distinct orientations to the various themes. This approach will enable deep and critical engagement in the themes under discussion. The programme is as follows.
 
-##### Week 1. Internet practicum
+##### Week 1. Introduction
 
-- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+Introductions
 
-[*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
+##### Week 2. Contemporary Public Policy in Historical Perspective I
 
-##### Week 2. The curiously sinister beginnings of the mass media
+- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
-- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf) Pages 1-30 of the PDF.
+- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
-- [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf) Pages 1-40 of the PDF.
+##### Week 3. Contemporary Public Policy in Historical Perspective II
 
-- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf) Pages 1-26 of the PDF.
+- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
-##### Week 3. Early social science of the media
+- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
-- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
+##### Week 4. Public Management and Democracy
 
-- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
+Can public service bureaucracies realistically be controlled by democratic forces? Can public managers be carriers of democratic values? 
+Is the concept of public value helpful, flawed or incoherent? What institutional measures and others changes would support the delivering of public services able to meet the challenges laid out in the public value argument?  
 
-*The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
-[![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+**Required Reading** 
 
-*Further readings (not required):*
+[Gerry Stoker ‘Public Value Management: A New Narrative for Networked Governance? The American Review of Public Administration, 2006](http://wiki.dbast.com/images/5/59/Public_value_management_%E2%80%93_A_new_narrative_for_networked_governance.pdf)
 
-- [Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
+**Suggested Reading**
 
-- Deutsch, Karl W. 1966. *The Nerves of Government: Models of Political Communication and Control.*
+Francesca Gains and Gerry Stoker “Delivering ‘Public Value’: Implications for Accountability and Legitimacy” Parliamentary Affairs (2009) 62(3): 438-455.
 
-- Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
+Moore, M. 1995. Creating Public Value: Strategic Management in Government. Cambridge, MA: Harvard University Press.
 
-##### Week 4. The rise of an institutionalized mainstream in the social science of the media
+[Moore, M. 2003. The Public Value Scorecard: A Rejoinder and an Alternative to ‘Strategic Performance Measurement and Management in Non-Profit Organizations’ by Robert Kaplan. The Hauser Center for Nonprofit Organizations Working Paper No. 18. Boston: Harvard University (30 June 2009)](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=402880)
 
-- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
+[Moore, M. and S. Khagram. 2004. On Creating Public Value: What Business Might Learn from Government about Strategic Management. Corporate Social Responsibility Initiative Working Paper No. 3. Cambridge, MA: John F. Kennedy School of Government, Harvard University (30 June 2009)](http://www.hks.harvard.edu/m-rcbg/CSRI/publications/workingpaper_3_moore_khagram.pdf).
 
-- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://github.com/jmrphy/course_media_politics/blob/master/Pooley_Shook_The_Field_2006.pdf?raw=true)
+Benington J and M. Moore. (Eds.) 2011 Public Value: The Theory and Practice. Basingstoke: Palgrave.
 
-Further readings (not required)
+**Background Reading** 
 
-- [Katz, Elihu, and Paul F Lazarsfeld. 1955/2009. Personal Influence: The Part Played by People in the Flow of Mass Communications. Collier-Macmillan.](http://books.google.co.uk/books?id=rElW8D0D8gYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+The Work Foundation in the UK provided a series of reports on public value: some are listed below but there are more.
 
-- [Campbell, Angus, Philip E Converse, Warren E Miller, and Donald E Stokes. 1960/1980. The American Voter. Chicago: University of Chicago Press.](http://books.google.co.uk/books?id=JeYUrs_GOcMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.)
+[Ricardo Blaug, Louise Horner and Rohit Lekhi (2006) Public value, politics and public management. A literature review.](http://www.theworkfoundation.com/Reports/117/Public-value-politics-and-public-management-A-literature-review)
 
-- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
+[Coats, D. and E. Passmore. 2008. Public Value: The Next Steps in Public Service Reform. London: The Work Foundation.](http://www.theworkfoundation.com/Reports/201/Public-Value-The-Next-Steps-in-Public-Service-Reform)
 
-##### Week 5. Do the mass media enforce government transparency and accountability?
+[Louise Horner, Rebecca Fauth and Michelle Mahdon (2006) Creating public value: case studies](http://www.theworkfoundation.com/Reports/108/Creating-public-value-case-studies)
 
-- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
+[Hills, D., and F. Sullivan. 2006. Measuring public value 2: Practical approaches. London: The Work Foundation](http://www.theworkfoundation.com/Reports/171/Measuring-public-value-2-Practical-approaches)
 
-- [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
+The think tank IPPR in UK seems to be revisiting the ideas from a different angle:
 
-Further readings (not required)
+[Editor(s):  Rick Muir, Graeme Cooke (2012) The relational state: How recognising the importance of human relationships could revolutionise the role of the state.](http://www.ippr.org/publication/55/9888/the-relational-state-how-recognising-the-importance-of-human-relationships-could-revolutionise-the-role-of-the-state)
 
-- [Slantchev, Branislvav L. 2006. “Politicians, the Media, and Domestic Audience Costs.” *International Studies Quarterly* 50(2): 445–77.](http://escholarship.org/uc/item/58c3h5zg)
+Other relevant and related books and authors:
 
-[CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.](http://dornsife.usc.edu/assets/sites/429/docs/Media_Openness_Democracy_and_Militarized_Interstate_Disputes.pdf)
+C. Bason (2010) Leading Public Sector Innovation Bristol: The Policy Press.
 
-[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
+Alford, J. and O’Flynn, J. (2012), Rethinking Public Service Delivery: Managing with External Providers, Palgrave Macmillan, Basingstoke.
 
-##### Week 6. Or are the mass media propaganda machines?
+[Barry Quirk (2010) Re-imagining Government Palgrave Macmillan, Basingstoke](http://www.barryquirk.com/)
+S. Griffiths, H. Kippin and G. Stoker (eds) (2013)  Public Services: A New Reform Agenda London: Bloomsbury Academic, 2013 pp282 
 
-- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+**Case Study Options**
 
-- [Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” *Political Analysis* 17(4): 377–99.](http://www.stanford.edu/~jhain/Paper/OVM2009.pdf)
+Choose a public service and look at the application of public value thinking to it. What are the chances of success?  
+ 
+##### Week 5. Long-Term Thinking in Public Policy and Democracy
 
-- [Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In *The Oxford Handbook of American Public Opinion and the Media.* Shapiro, Robert Y, and Lawrence R Jacobs, eds. Oxford.]
-(http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf)
+Democracy is often accused on being inherently myopic but why is that? How to define what is long-term policy making? Is it the case that democracies are short-term in their policy-making compared to other forms of government (authoritarian regimes for example?) What institutional, process and power dynamics might support greater prospects fro long-term policy-making?  
 
-##### Week 7. Are the mass media shaped by political institutions?
+**Required Reading**
+[Alan Jacobs (2011) Governing for the Long Term: Democracy and the Politics of Investment (Cambridge, 2011)](http://www.politics.ubc.ca/fileadmin/user_upload/poli_sci/Faculty/jacobs/Frontmatter_Chapter_1_-_9780521195850_-_Jacobs_-_Governing_for_the_Long__Term.pdf)
 
-- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
+[See also papers delivered to ECPR Glasgow Conference 2014](http://ecpr.eu/Events/PanelDetails.aspx?PanelID=3164&EventID=14)
 
-- [Baek, Mijeong. 2009. “A Comparative Analysis of Political Communication Systems and Voter Turnout.” *American Journal of Political Science*: 1–19.](http://jpmarin27.pbworks.com/f/more%20comm.pdf)
+**Suggested Reading**
 
-- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+[Alan Jacobs and J. Scott Matthews (2012) ‘Do citizens discount the future? ‘British Journal of  Political Science.](http://www.politics.ubc.ca/fileadmin/user_upload/webhome/users/364/Why_Do_Citizens_Discount_the_Future_published.pdf)
 
-- [*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
+[H. Ward (2012) The Future of Democracy in the Face of Climate Change](http://www.fdsd.org/wordpress/wp-content/uploads/Democracy-and-climate-change-scenarios-final-with-foreword.pdf)
 
-- [*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
+[M. Shultz (2012) A return to long-term thinking Speech on Europe, Berlin, 9 November 2012 by Martin Schulz, President of the European Parliament](http://www.europarl.europa.eu/the-president/en/press/press_release_speeches/speeches/sp-2012/sp-2012-november/speeches-2012-november-1.html)
+ 
+[Mike Hulme (2012) What sorts of Knowledge for What sort of politics?](http://www.3s.uea.ac.uk/sites/default/files/3S%20WP%202012-15.pdf)
 
-##### Week 8. Are the mass media shaped by economic institutions?
+[James Lovelock (2010) ‘Humans are too stupid to prevent climate change’ The Guardian, Monday 29 March 2010](http://www.guardian.co.uk/science/2010/mar/29/james-lovelock-climate-change)
 
-- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+Alt, James E. and David Dreyer. Transparency (2006) Political Polarization, and Political Budget Cycles in OECD Countries, American Journal of Political Science, 50(3), pp. 530-50.
 
-- [Prior, Markus. 2005. “News vs. Entertainment: How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout.” *American Journal of Political Science* 49(3): 577–92.](http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
+[Anderson, Victor (2011) Addressing short-termism in government and politics, The Guardian, May 2, 2011](http://www.guardian.co.uk/sustainable-business/government-politics-short-termism-unsustainability)
 
-- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](http://webh01.ua.ac.be/m2p/publications/1300823971.pdf)
+**Background Reading**
 
-[Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://people.su.se/~dstro/Disasters.pdf)
+[Cloughterty, Tom (2011) Tackling short-termism, The Adam Smith Institute, Wednesday August 3, 2011.](http://www.adamsmith.org/blog/tax-and-economy/tackling-short-termism)
 
-Additional readings:
+Ekeli, Kristian (2009) Constitutional Experiments: Representing Future Generations Through Submajority Rules, The Journal of Political Philosophy, 17(4), pp. 440-61.
 
-[Prior, M. 2013. “Media and Political Polarization.” Annual Review of Political Science.](http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf)
+Hobson, Kersty and Simon Niemeyer (2011) Public responses to climate change: The role of deliberation in building capacity for adaptive action, Global Environmental Change, 21(3), pp. 957-71.
 
-##### Week 9. How do the mass media represent different groups?
+Jacobs, Alan (2008) The Politics of When: Redistribution, Investment and Policy Making for the Long Term, British Journal of Political Science, 38, pp. 193-220.
 
-"Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
-[![Willie Horton ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7154335c185b5f95bd0e251178abadba25.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
+Nordhaus, William D. (1975) The Political Business Cycle, Review of Economic Studies, 42(2), pp. 169-90.
 
-"White Hands" ad, Jesse Helms, 1990, 30 sec.
-[![White Hands ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7180731fc63976099c7b1d3bf0ca8162f6.png)](http://www.youtube.com/watch?v=KIyewCdXMzk)
+Pal, Leslie A. and Kent R. Weaver (2003) The Government Taketh Away. The Politics of Pain in the United States and Canada, Washington: Georgetown University Press.
 
-*Racism on TV in Great Britain* with Stuart Hall, 1984, 60 min.
-[![Racism on TV screenshot](http://c714091.r91.cf2.rackcdn.com/3db0911c71989e25d2a644b8b8c9b855250736500b.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
+**Case Study Options**
 
-"From Feminism to Patriarchy" in *Cultural Criticism and Transformation*, with bell hooks, Media Education Foundation, 1997, 6 min.
+Choose a policy and examine the prospects for long-term policy making in that area. What factors would make the prospects of long-term policy successfully emerging?
 
-[![Racism on TV screenshot](http://tardis1.tinygrab.com/grabs/3db0911c719566a28be045201993d64e00e148ec48.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
+##### Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy?
 
+Questions to consider: 
+Does the distinction between fast and slow thinking in Daniel Kahneman’s work hold? Why is fast thinking so dominant? Do you agree that too much fast thinking carries costs for policy making? What institutional or other devices could be developed to limit the impact of fast thinking and create the opportunity for more slow thinking in public policy formulation?  
 
-[Media Coverage of the 2011 London Riots, a multimedia collection](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
+**Required Reading**
 
-Additional reading:
+[Gerry Stoker, Colin Hay and Matt Barr “Exploring the Consequences of Fast Thinking about Politics” Paper for the PSA/University of Kent conference on “CITIZENS AND POLITICS IN BRITAIN TODAY: STILL A ‘CIVIC CULTURE’?” 26th September 2013, London.](http://www.kent.ac.uk/politics/research/comparativegroup/Stoker-paper.pdf)
 
-[Full transcript of the video *Cultural Criticism and Transformation* featuring bell hooks, Media Education Foundation, 1997](http://www.mediaed.org/assets/products/402/transcript_402.pdf)
+[Andrei Shleife “Psychologists at the Gate: A Review of Daniel Kahneman’s Thinking, Fast and Slow”](http://www.relooney.fatcow.com/0_New_15175.pdf)
 
-["Jesse Helms, John McCain and the Mark of the White Hands", John Nichols, *The Nation*, 2008](http://www.thenation.com/blog/jesse-helms-john-mccain-and-mark-white-hands)
+**Suggested Reading**
 
-##### Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
+Daniel Kahneman (2011) Thinking Fast and Slow London: Allen Lane.
 
-*Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
+Reviews of Kahneman:
 
-[![Marcos screenshot](http://tardis1.tinygrab.com/grabs/3db0911c716ea7a36a82f47f339f19f79a5de0a598.png)](http://www.youtube.com/watch?v=s8nAey4OZJg)
+[Galen Strawson (2011) ‘Thinking, Fast and Slow by Daniel Kahneman – review’ The Guardian, Tuesday 13 December 2011.](http://www.guardian.co.uk/books/2011/dec/13/thinking-fast-slow-daniel-kahneman)
 
-"Digital Zapatismo" featuring Electronic Disturbance Theatre, from *The Hacktivists*, 1997, 9:25 min.
-[![Dominguez et al screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7108677d33ab630a1c89b5ef3a16321308.png)](http://www.youtube.com/watch?v=O-U-he8LN3k)
+[William Easterly (2011) “Thinking, Fast and Slow Review” Financial Times, November 5th, 2011.](http://www.ft.com/cms/s/2/15bb6522-04ac-11e1-91d9-00144feabdc0.html#axzz2M5kJpB00)
 
+Evans, Jonathan St. B. T. 2012. Questions and challenges for the new psychology of reasoning. Thinking & Reasoning 18(1):5-31.
 
-- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
+Lupia, Arthur. 1994. Shortcuts versus encyclopedias: information and voting behavior in California Insurance Reform Elections. American Political Science Review 88(1):63-76.   
 
-- [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
+Marcus, George, Russell W. Neuman and Michal Mackuen. 2000. Affective Intelligence and Political Judgment. Chicago: University of Chicago Press.
 
-##### Week 11. Or do all media just make states stronger and more oppressive?
+Moshman, David. 2000. Diversity in reasoning and rationality: metacognitive and developmental considerations. Behavioural and Brain Sciences 23: 689-90.
 
-[MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
+Osman, Magda. 2004. An evaluation of dual-process theories of reasoning. Psychonomic Bulletin & Review 11: 988-1010.
 
-[![Morozov video screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7137eede70581fd815bb497f6c0cb9120b.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+Stanovich, Keith and Richard F. West. 2000. Individual difference in reasoning: implications for the rationality debate?. Behavioural and Brain Sciences 23:645–726.
+
+Stanovich, Keith and Maggie E. Toplak. 2012. Defining features versus incidental correlates of Type 1 and Type 2 processing. Mind Soc 11:3-13.
+
+**Background Reading**
+
+Chambers, Simone. 2003. Deliberative Democratic Theory. Annual Review of Political Science 6:307-26.
+
+Goodin, Robert and Simon Niemeyer. 2003. When does Deliberation Begin? Internal Reflection versus Public discussion in Deliberative Democracy. Political Studies 51(4):627-49.
+
+John, Peter, Sarah Cotterill, Alice Moseley, Liz Richardson, Graham Smith, Gerry Stoker and Corrine Wales. 2011. Nudge, Nudge, Think Think: Experimenting with ways to change Civic Behaviour. London: Bloomsbury Academic.
+
+Kahneman, Daniel. 2011. Thinking, Fast and Slow. London: Penguin.
+Richard Thaler and Cass Sunstein’s Nudge: Improving Decisions About Health, Wealth, and Happiness.
+
+[See also Nudge Blog, building on publication.](http://nudges.org/)
+
+Cass Sunstein Simpler: The future of government, Simon and Schuster, 2013. (Provides an update on his thinking; see also [this on The Guardian](http://www.theguardian.com/commentisfree/2014/apr/24/nudge-backlash-free-society-dignity-coercion))
+
+[A well used and important early report on the approach by UK’s Institute for government think tank: MINDSPACE.](http://www.instituteforgovernment.org.uk/publications/mindspace)
+
+
+**Case Study options**
+
+Explore the implications of the systematic errors in human cognition for the construction of public policy in one area and then look at the devices available to try to correct those errors.
+
+
+##### Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform
+
+Can we design policies to support, sustain or improve democratic practice? What are the failings of democracy that policy should be trying to address? Can we expect political elites to be able to lead a process of reform of the politics they have largely constructed? Your policy for reforming democracy should match your theory of democracy. Do you agree?
+
+**Required Reading**
+
+[Stoker, Gerry (2012) Building a New Politics?, London: British Academy.](http://www.britac.ac.uk/policy/Building_a_new_politics.cfm)
+
+**Suggested Reading**
+
+Reilly, B. (2006), Democracy and diversity: Political engineering in the Asia-Pacific (Oxford, Oxford University Press).
+
+Reynolds, A. (2010), Designing democracy in a dangerous world (Oxford, Oxford University Press).
+
+Sartori, G. (1994), Comparative constitutional engineering: An inquiry into structures, incentives, and outcomes (London, Macmillan).
+
+Smith, G. (2009), Democratic innovations: Designing institutions for citizen participation (Cambridge, Cambridge University Press). 
+
+Sunstein, C. R. (2007) Republic.com 2.0 (Princeton NJ, Princeton University Press). 
+
+[E. Theiss-Morse and J. Hibbing (2005) ‘Citizenship and Citizen Engagement’ Annual Review of Political Science 8:227-49.](http://www.u.arizona.edu/~zshipley/pol437/docs/citicenship_engagement.pdf)
+
+[G. Smith (2005)  Beyond the Ballot Box.](http://eprints.soton.ac.uk/34527/1/Beyond_the_Ballot.pdf)
+
+Almond, G. and Verba, S. (1963), The civic culture: Political attitudes and democracy in five nations (Princeton NJ, Princeton University Press). 
+
+Birch, S. and Allen, N. (2009), ‘How honest do politicians need to be?’, The Political Quarterly, 81: 49-56.
+
+Fishkin, J. S. (1997), The voice of the people: Public opinion and democracy (New Haven CT, Yale University Press).
+
+Fung, A. and Wright, E. O. (2003), Deepening Democracy: Institutional innovations in empowered participatory governance (London, Verso).
+
+Geissel, Brigitte and Kenneth Newton, eds. 2012. Evaluating Democratic Innovations. London: Routledge.
+
+Alonso, S and Keane, J and Merkel, W (2011) The Future of Representative Democracy , Cambridge: CUP 
+
+**Background Reading**
+
+[Cameron, D (2010) Rebuilding trust in politics Speech delivered February 8 2010.](http://www.conservatives.com/News/Speeches/2010/02/David_Cameron_Rebuilding_trust_in_politics.aspx)
+
+[Clegg, N. (2010), ‘Full text: Clegg reform speech’, BBC News, 19 May 2010.](http://news.bbc.co.uk/1/hi/uk_politics/8691753.stm).
+
+Flinders, M. (2010), ‘In defence of politics’, The Political Quarterly, 81: 309-326.
+
+Fishkin, J. S., He, B., Luskin, R. C. and Siu, A. (2010), ‘Deliberative democracy in an unlikely place: Deliberative polling in China’, British Journal of Political Science, 40: 435-448. 
+
+Gibson, R. (2009), ‘New media and the revitalisation of politics’, Representation, 45: 289-300.
+
+Hibbing, J. and Theiss-Morse, E. (2001), ‘The means is the end’, in J. Hibbing and E. Theiss-Morse (eds.), What is about government that Americans dislike? (Cambridge, Cambridge University Press), 243-250. 
+
+Hibbing, J. and Theiss-Morse, E. (2002), Stealth democracy: Americans’ beliefs about how government should work (New York, Cambridge University Press).
+
+[John,P., Liu,H. and Fieldhouse,E. (2010) The Civic Culture in Britain and America Fifty Years On, working paper from the Institute for Social Change, University of Manchester.](http://www.humanities.manchester.ac.uk/socialchange/publications/working/documents/TheCivicCultureinBritainandAmerica.pdf)
+
+[Keaney, E. and Rogers, B. (2006), A citizen’s duty: Voter inequality and the case for compulsory turnout, London, Institute of Public Policy Research.](http://www.ippr.org/ecomm/files/a_citizen’s_duty.pdf)
+
+Lijphart, A. (1977), Democracy in plural societies: A comparative exploration (New Haven CT, Yale University Press). 
+
+Neblo, M.; Esterling, K., Kennedy,R.,Lazer,D., Sokhey,A ( 2010) Who Wants to Deliberate-And Why? American Political Science Review 104:3, 566-583 
+
+Norris, P. (2008), Driving democracy: Do power-sharing institutions work? (Cambridge, Cambridge University Press).
+
+Norris, P. (2011), Democratic deficit: Critical citizens revisited (Cambridge, Cambridge University Press).
+
+Pateman, C. (1970), Participation and democratic theory (Cambridge, Cambridge University Press). 
+
+Pattie, C., Seyd, P. and Whiteley, P. (2004) Citizenship in Britain: Values, participation and democracy (Cambridge, Cambridge University Press).
+
+[Power Inquiry (2006), The report of Power: An independent inquiry into Britain’s democracy.](http://www.powerinquiry.org/report/documents/PowertothePeople_002.pdf)
+
+Theiss-Morse, E. and Hibbing, J. (2005), ‘Citizenship and civic engagement’ in Annual Review of Political Science, 8: 227-49.
+
+Verba, S., Schlozman, K. and Brady, H. (1995), Voice and Equality (Cambridge MA: Harvard University Press). 
+
+
+**Case Study Options**
+
+Choose a setting of democratic practice and examine  how it could be reformed or look at a reform practice in action and investigate its supporters, opponents and prospects.
+ 
 
 

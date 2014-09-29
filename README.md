@@ -41,16 +41,15 @@ Week 12. Closing Session 05/01/15
 **Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
 **Office:** Building 58, Room 3083   
 **Contact and feedback hours:**   
-Monday 11am - 1pm   
-Thursday 10am - 12pm 
+Monday 2pm - 4pm   
+Friday 2pm - 4pm 
 
 **Lecturer:** Gerry Stoker, PhD    
 **Email:** G.Stoker@soton.ac.uk   
 **Twitter:** [@ProfStoker](http://twitter.com/profstoker)   
 **Office:** Building 58, Room 3099   
 **Contact and feedback hours:**   
-Monday 11am - 1pm   
-Thursday 10am - 12pm 
+By email.
 
 **Lecture:** Monday 3pm - 5pm   
 **Tutorial:** Tuesday 12pm - 1pm   
@@ -121,11 +120,11 @@ The essay will make up 40% of the final grade. The case study will account for 4
 
 **Deadlines**
 
-Submit an electronic copy of your essay via Turnitin to the Blackboard site on Monday 12th March 2013. 
+Submit an electronic copy of your essay via Turnitin to the Blackboard site on Monday, November 3. 
 
-The subject and title of your case study must be agreed with one or both of the co-conveners by 3.00pm on Friday 16th March 2013. This can be done via email correspondence or via appointment. You will give a presentation about your case study during the seminar on 17th May 2013.
+The subject and title of your case study must be agreed with one or both of the co-conveners by 3.00pm on November 10, 2014. This can be done via email correspondence or via appointment. You will give a presentation about your case study during the seminar on December 1, 2014.
 
-The completed case study must be submitted via Turnitin to the Blackboard site on Monday 4th June 2013.
+The completed case study must be submitted via Turnitin to the Blackboard site on Monday, January 5, 2015.
 
 Extensions can only be arranged by meeting with the MSc Coordinator (Dr Pia Riggirozzi) in advance. Coursework submitted late without an agreed extension will face the appropriate penalty as outlined in the Postgraduate Handbook.
 
@@ -178,7 +177,7 @@ Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Centu
 
 ##### Week 3. Contemporary Public Policy in Historical Perspective II
 
-What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynsian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
+What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynesian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
 
 - Chapter 1 of [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) Chapter 1, 5-38.
 
@@ -186,7 +185,7 @@ What is "neoliberalism" and how does it contrast with embedded liberalism and th
 
 - [Johnson, Simon. May 2009. "The Quiet Coup," *The Atlantic.*](http://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/?single_page=true)
 
-*Suggested Readings*
+**Suggested Readings**
 
 Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New Left to New Labour. London: Verso.
 

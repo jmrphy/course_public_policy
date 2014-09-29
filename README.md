@@ -21,9 +21,9 @@ Part 1: Democracy and Public Policy?
 - [Week 5. Long-Term Thinking in Public Policy and Democracy (Stoker, 27/10/14)](#week-5-long-term-thinking-in-public-policy-and-democracy)  
 
 Part 2: Policy for Democracy    
-- [Week 6. Public Policy Under Globalization (Murphy, 3/11/14)](#week-6-public-policy-under-globalization)   
+- [Week 6. The Public Opinion and Public Policy Nexus (Murphy, 3/11/14)](#week-6-the-public-opinion-and-public-policy-nexus)   
 - [Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy? (Stoker, 10/11/14)](#week-7-does-fast-thinking-undermine-the-prospects-for-both-democracy-and-public-policy)   
-- [Week 8. Is Public Policy Responsive to Public Opinion? (Murphy, 17/11/14)](#week-8-is-public-policy-responsive-to-public-opinion)   
+- [Week 8. Institutional Threats to Democratic Policymaking: Globalization, Media, Inequality (Murphy, 17/11/14)](#week-8-institutional-threats-to-democratic-policymaking-globalization-media-inequality)   
 - [Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform (Stoker, 24/11/14)](#week-9-competing-theories-of-democratic-failure-and-designing-policies-for-democratic-reform)
 
 Part 3:  Connecting Theory and Practice    
@@ -134,40 +134,67 @@ Extensions can only be arranged by meeting with the MSc Coordinator (Dr Pia Rigg
 All coursework must be typed or word processed, 1.5 line-spaced, contain a bibliography, and use the Harvard style of referencing.
 
 #### Essay Questions
-For your essay you are required to select one of the following titles. You should write a maximum of 4000 words (excluding references).  
+For your essay you are required to respond to one of the following prompts. You should write a maximum of 4000 words (excluding references).  
 
-- Is the growing enthusiasm around the ‘democratisation’ of the policy process justified?
-- The public agenda does not represent the policy preferences and priorities of the demos. Discuss.
-- Can and should lay citizens be engaged directly in the policy process much more often?
-- Does the shift towards collaborative governance strengthen or weaken public involvement in the policy process?
-- What has been the impact of the growing emphasis on greater transparency and accountability in government?
-- Digital technologies can democratise the processes of governance. Discuss.
+- Is public policymaking today democratic?
+- Does "fast thinking" undermine the democratic quality of policymaking?
+- How do you explain the rise of neoliberalism as the dominant paradigm of public policymaking?
+- What is one of the main institutional threats to democratic policymaking?
+- What explains democratic failures?
+- How can we design policies for democratic reform?
 
 #### Case Studies
 
-The case study involves an in-depth analysis of a selected policy issue or program, providing an assessment of the ways in which the issue or program enables or discourages public inclusion. In particular, case studies should explore one of the four key sub-themes developed in the course in great depth, assessing both the more optimistic and pessimistic implications for the democratisation of the policy process.
+The case study involves an in-depth analysis of a selected policy issue or program, providing an assessment of the ways in which the issue or program enables or discourages public inclusion. The key point is that you must engage with empirical data, "testing" an argument or hypothesis you've developed throughout our discussions against the historical record. This can be through qualitative comparisons, analytical historical narratives, quantitative analysis, or any other legitimate research method, but it must be an effort to explain empirical data with an argument, theory, or "model." In particular, case studies should explore one of the key themes developed in the course.
 
 
-### Schedule
-=====================================
+Schedule
+-------------------------------
 
 The seminars, other than the introductory week and the sessions devoted to student presentations, will be led by one of the two lecturers on an alternating basis, engendering distinct orientations to the various themes. This approach will enable deep and critical engagement in the themes under discussion. The programme is as follows.
 
-##### Week 1. Introduction
-
-Introductions
+##### Week 1. Introductions
+(September 29)
 
 ##### Week 2. Contemporary Public Policy in Historical Perspective I
 
-- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+What was the traditional relationship between public policy and capitalism from the industrial revolution to the settlements after World War II? What is Polanyi's famous "double movement?" What is "Keynesianism?" What is "embedded liberalism"? Does the relationship between markets and public policymaking seem different than it is now?
 
-- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+**Required Readings**
+
+- [Polanyi, Karl. 2001. The Great Transformation. Second. Boston: Beacon Press.](https://www.dropbox.com/s/ybift42i8ybnir0/Polanyi_Transformation_1944.pdf?dl=0) Pages 35-58, 71-80.
+
+- [Ruggie, John Gerard. 1982. “International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order.” International Organization: 1–38.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+
+- [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) Introduction, 1-4.
+
+**Suggested Readings**
+
+Blyth, M. 2002. *Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century.* Cambridge: Cambridge University Press.
+
+Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Century.* W. W. Norton.
+
+[Keynes, J M. 1926. The End of Laissez-Faire.](http://www.kantakji.com/media/3751/442.pdf)
 
 ##### Week 3. Contemporary Public Policy in Historical Perspective II
 
-- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynsian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
 
-- [*Name of text*, Date, Author.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+- Chapter 1 of [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) Chapter 1, 5-38.
+
+- [Klein, Naomi. 2010. *The Shock Doctrine: The Rise of Disaster Capitalism.* Henry Holt and Company: New York.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) 3-21 (Introduction); 49-71 (Chapter 2).
+
+- [Johnson, Simon. May 2009. "The Quiet Coup," *The Atlantic.*](http://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/?single_page=true)
+
+*Suggested Readings*
+
+Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New Left to New Labour. London: Verso.
+
+- [Streeck, Wolfgang. 2011. “The Crises of Democratic Capitalism.” *New Left Review* 71: 5–29.](https://www.dropbox.com/s/8uz9c7nohfkr19v/Streeck_Democratic_Capitalism_2011.pdf?dl=0)
+
+- [Streeck, Wolfgang. 2012. “Citizens as Customers.” New Left Review 76: 27–47.](https://www.dropbox.com/s/31x1tomi3hk5mdk/Streeck_Citizens_as_Customers_2012.pdf?dl=0)
+
+Crozier, Michel J, Samuel P Huntington, and Joji Watanuki. 1975. The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission. New York University Press: New York.
 
 ##### Week 4. Public Management and Democracy
 
@@ -262,6 +289,35 @@ Pal, Leslie A. and Kent R. Weaver (2003) The Government Taketh Away. The Politic
 
 Choose a policy and examine the prospects for long-term policy making in that area. What factors would make the prospects of long-term policy successfully emerging?
 
+#### Week 6. The Public Opinion and Public Policy Nexus
+
+Does public opinion drive public policy? Does public opinion react to public policy? Is this enough to constitute democracy?
+
+**Required Readings**
+
+Soroka, Stuart N, and Christopher Wlezien. 2005. “Opinion–Policy Dynamics: Public Preferences and Public Expenditure in the United Kingdom.” British Journal of Political Science 35(04): 665–89.
+
+Shapiro, Robert Y. (2011), ‘Public Opinion and American Democracy.’ Public Opinion Quarterly 75(5): 982-1017. 
+
+**Suggested Readings**
+
+Shapiro, Robert Y., and Lawrence R. Jacobs. (2001). ‘Presidents and Polling: Politicians, Pandering, and the Study of Democratic Responsiveness.’ Presidential Studies Quarterly 31(1): 150-167.
+
+Wright, Gerald C, Robert S Erikson, and John P McIver. 1987. “Public Opinion and Policy Liberalism in the American States.” American Journal of Political Science 31(4): 980.
+
+Wlezien, Christopher. 1995. “The Public as Thermostat: Dynamics of Preferences for Spending.” American Journal of Political Science 39(4): 981.
+
+Hobolt, Sara B. and Robert Klemmemsen. (2005). ‘Responsive government? Public opinion and government policy preferences in Britain and Denmark.’ Political Studies 53: 379-402.
+
+Hellwig, Timothy. 2008. “Globalization, Policy Constraints, and Vote Choice.” The Journal of Politics 70(04): 1128.
+
+Kelly, Nathan J. 2005. “Political Choice, Public Policy, and Distributional Outcomes.” American Journal of Political Science 49(4): 865–80.
+
+Matsubayashi, Tetsuya, and Rene R Rocha. 2012. “Racial Diversity and Public Policy in the States.” Political Research Quarterly 65(3): 600–614.
+
+Page, Benjamin I, and Robert Y Shapiro. 1983. “Effects of Public Opinion on Policy.” The American political science review 77(1): 175.
+
+
 ##### Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy?
 
 Questions to consider: 
@@ -318,6 +374,39 @@ Cass Sunstein Simpler: The future of government, Simon and Schuster, 2013. (Prov
 **Case Study options**
 
 Explore the implications of the systematic errors in human cognition for the construction of public policy in one area and then look at the devices available to try to correct those errors.
+
+#### Week 8. Institutional Threats to Democratic Policymaking: Globalization, Media, Inequality
+
+**Required Readings**
+
+Hay, Colin, and Ben Rosamond. 2011. “Globalization, European Integration and the Discursive Construction of Economic Imperatives.” Journal of European Public Policy 9(2): 147–67.
+
+Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In The Oxford Handbook of American Public Opinion and the Media, eds. Robert Y Shapiro and Lawrence R Jacobs. 589–604.
+
+Gilens, Martin. 2005. “Inequality and Democratic Responsiveness.” Public Opinion Quarterly 69(5): 778–96.
+
+**Suggested Readings**
+
+- [Simmons, Beth A, and ZACHARY ELKINS. 2004. “The Globalization of Liberalization: Policy Diffusion in the International Political Economy.” American Political Science Review 98(01): 171–89.]
+
+- [Drezner, Daniel W. 2001. “Globalization and Policy Convergence.” International Studies Review 3(1): 53–78.]
+
+Freeland, Chrystia. 2012. Plutocrats: the Rise of the New Global Super-Rich and the Fall of Everyone Else. London: Penguin UK.
+
+Pollack, Mark A. 1997. “Delegation, Agency, and Agenda Setting in the European Community.” International Organization 51(1): 99–134. Available here. 
+
+Sattler, Thomas, Patrick T Brandt, and John R. Freeman. 2010. “Democratic Accountability in Open Economies.” Quarterly Journal of Political Science (5): 71–97.
+
+Cai, Hongbin, and Daniel Treisman. 2005. “Does Competition for Capital Discipline Governments? Decentralization, Globalization, and Public Policy.” The American Economic Review 95(3): 817–30.
+
+Cerny, Philip G, and Mark Evans. 2004. “Globalisation and Public Policy Under New Labour.” Policy Studies 25(1): 51–65.
+
+Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” Political Analysis 17(4): 377–99.
+
+Warren, T Camber. 2014. “Not by the Sword Alone: Soft Power, Mass Media, and the Production of State Sovereignty.” International Organization 68(01): 111–41.
+
+Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.
+
 
 
 ##### Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform

@@ -163,9 +163,9 @@ What was the traditional relationship between public policy and capitalism from 
 
 - [Polanyi, Karl. 2001. The Great Transformation. Second. Boston: Beacon Press.](https://www.dropbox.com/s/ybift42i8ybnir0/Polanyi_Transformation_1944.pdf?dl=0) Pages 35-58, 71-80.
 
-- [Ruggie, John Gerard. 1982. “International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order.” International Organization: 1–38.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+- [Ruggie, John Gerard. 1982. “International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order.” International Organization: 1–38.](https://www.dropbox.com/s/7elzi4jfznryo6r/Ruggie_Embedded_Liberalism_1982.pdf?dl=0)
 
-- [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) Introduction, 1-4.
+- [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://www.dropbox.com/s/m084eiqs8li0833/Harvey_Neoliberalism_2005.pdf?dl=0) Introduction, 1-4.
 
 **Suggested Readings**
 

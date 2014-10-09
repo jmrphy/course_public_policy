@@ -191,9 +191,9 @@ Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Centu
 
 What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynesian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
 
-- Chapter 1 of [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) Chapter 1, 5-38.
+- Chapter 1 of [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://www.dropbox.com/s/m084eiqs8li0833/Harvey_Neoliberalism_2005.pdf?dl=0) Chapter 1, 5-38.
 
-- [Klein, Naomi. 2010. *The Shock Doctrine: The Rise of Disaster Capitalism.* Henry Holt and Company: New York.](https://github.com/jmrphy/internet_practicum/blob/master/README.md) 3-21 (Introduction); 49-71 (Chapter 2).
+- [Klein, Naomi. 2010. *The Shock Doctrine: The Rise of Disaster Capitalism.* Henry Holt and Company: New York.](https://www.dropbox.com/s/hdct784wx1upuli/Klein_Shock_Doctrine_2012.pdf?dl=0) 3-21 (Introduction); 49-71 (Chapter 2).
 
 - [Johnson, Simon. May 2009. "The Quiet Coup," *The Atlantic.*](http://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/?single_page=true)
 

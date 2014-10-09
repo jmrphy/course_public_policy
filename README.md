@@ -4,7 +4,7 @@
 - [Prerequisites and Restrictions](#prerequisites-and-restrictions)    
 - [Summary of teaching and learning outcomes](#summary-of-teaching-and-learning-outcomes)   
 - [Academic Integrity](#academic-integrity)
-- [Required Reading](#required-reading)
+- [Readings](#readings)
 - [Feedback to and from Students](#feedback-to-and-from-students)
 - [Assessment](#assessment)
 - [Essay Questions](#essay-questions)
@@ -16,7 +16,7 @@
 Part 1: Democracy and Public Policy?    
 - [Week 1. Introduction (29/09/14)](#week-1-introduction)   
 - [Week 2. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-2-contemporary-public-policy-in-historical-perspective-i)   
-- [Week 3. Contemporary Public Policy in Historical Perspective I (Murphy, 06/10/14)](#week-3-contemporary-public-policy-in-historical-perspective-ii)   
+- [Week 3. Contemporary Public Policy in Historical Perspective II (Murphy, 06/10/14)](#week-3-contemporary-public-policy-in-historical-perspective-ii)   
 - [Week 4. Public Management and Democracy: Friends or Enemies in Public Service Provision? (Stoker, 20/10/14)](#week-4-public-management-and-democracy)    
 - [Week 5. Long-Term Thinking in Public Policy and Democracy (Stoker, 27/10/14)](#week-5-long-term-thinking-in-public-policy-and-democracy)  
 
@@ -99,13 +99,25 @@ The penalties for plagiarism range from resubmission of the piece of work to exp
 
 Module evaluation forms will be distributed at the end of the semester. We welcome informal feedback at any time.
 
-#### Required Reading
+#### Readings
 
 There is no single book for purchase. Key readings are available online, so there should be no difficulty in preparing for each seminar. You will be expected to help develop the case materials for many of the seminars by identifying relevant policy documents, white papers, newspaper articles or multimedia clips in relation to the seminar content. The rationale behind this is that you will need to engage in greater depth with the themes and ideas in the module, and that you will also develop your analytical and research skills. An important additional benefit is that this material will prove very useful in developing your work for assessment. 
 
 The reading for each week is organised with a series of ‘core’ readings, which you should attempt to read a selection of, to build on the material covered in the lecture, and ‘further’ readings that allow you to explore the topics that interest you further. These are provided to give you choice in your reading. Please prepare for the seminars by reading the ‘case materials’ and by searching for and identifying additional material from sources such as policy documents, white papers and newspaper articles.
 
 Where possible we have sought to include hyperlinks to e-books, journal articles and other publications to ensure that these are easily available, and so that that you can dedicate your time to reading them rather than searching for them. A small number of the books are not available in an electronic format. If any of the hyperlinks are broken, please let me know immediately.
+
+For classic introductions to public policy, see any one of the following texts.
+
+- Anderson, J.E. (1994), Public Policy Making (Houghton Mifflin).
+- Becker, S. & A. Bryman (2004), Understanding Research for Social Policy and Practice (Policy Press).
+- Burch, M. & B. Wood (1994), Public Policy in Britain (Blackwell).
+- Hill, M. (1993), The Policy Process: A Reader (Harvester Wheatsheaf).
+- Hill, M. (2009) The Public Policy Process (Longman)
+- Hill, M. & M. Hupe (2002), Implementing Public Policy (Sage).
+- Howlett, M. & M. Ramesh (2003), Studying Public Policy: Policy Cycles and Policy Subsystems (Oxford University Press).
+- John, P. (1998), Analysing Public Policy (Cassell).
+- Parsons, W., Public Policy (Edward Elgar 1995)
 
 
 #### Assessment
@@ -152,7 +164,7 @@ Schedule
 
 The seminars, other than the introductory week and the sessions devoted to student presentations, will be led by one of the two lecturers on an alternating basis, engendering distinct orientations to the various themes. This approach will enable deep and critical engagement in the themes under discussion. The programme is as follows.
 
-##### Week 1. Introductions
+##### Week 1. Introduction
 (September 29)
 
 ##### Week 2. Contemporary Public Policy in Historical Perspective I

@@ -136,7 +136,7 @@ Submit an electronic copy of your essay via Turnitin to the Blackboard site on M
 
 The subject and title of your case study must be agreed with one or both of the co-conveners by 3.00pm on November 10, 2014. This can be done via email correspondence or via appointment. You will give a presentation about your case study during the seminar on December 1, 2014.
 
-The completed case study must be submitted via Turnitin to the Blackboard site on Monday, January 5, 2015.
+The completed case study must be submitted via Turnitin to the Blackboard site on Monday, January 9, 2015.
 
 Extensions can only be arranged by meeting with the MSc Coordinator (Dr Pia Riggirozzi) in advance. Coursework submitted late without an agreed extension will face the appropriate penalty as outlined in the Postgraduate Handbook.
 
@@ -164,10 +164,9 @@ Schedule
 
 The seminars, other than the introductory week and the sessions devoted to student presentations, will be led by one of the two lecturers on an alternating basis, engendering distinct orientations to the various themes. This approach will enable deep and critical engagement in the themes under discussion. The programme is as follows.
 
-##### Week 1. Introduction
-(September 29)
+### Week 1. Introduction
 
-##### Week 2. Contemporary Public Policy in Historical Perspective I
+### Week 2. Contemporary Public Policy in Historical Perspective I
 
 What was the traditional relationship between public policy and capitalism from the industrial revolution to the settlements after World War II? What is Polanyi's famous "double movement?" What is "Keynesianism?" What is "embedded liberalism"? Does the relationship between markets and public policymaking seem different than it is now?
 
@@ -181,13 +180,13 @@ What was the traditional relationship between public policy and capitalism from 
 
 **Suggested Readings**
 
-Blyth, M. 2002. *Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century.* Cambridge: Cambridge University Press.
+- Blyth, M. 2002. *Great Transformations: Economic Ideas and Institutional Change in the Twentieth Century.* Cambridge: Cambridge University Press.
 
-Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Century.* W. W. Norton.
+- Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Century.* W. W. Norton.
 
-[Keynes, J M. 1926. The End of Laissez-Faire.](http://www.kantakji.com/media/3751/442.pdf)
+- [Keynes, J M. 1926. The End of Laissez-Faire.](http://www.kantakji.com/media/3751/442.pdf)
 
-##### Week 3. Contemporary Public Policy in Historical Perspective II
+### Week 3. Contemporary Public Policy in Historical Perspective II
 
 What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynesian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
 
@@ -199,7 +198,7 @@ What is "neoliberalism" and how does it contrast with embedded liberalism and th
 
 **Suggested Readings**
 
-Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New Left to New Labour. London: Verso.
+- Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New Left to New Labour. London: Verso.
 
 - [Streeck, Wolfgang. 2011. “The Crises of Democratic Capitalism.” *New Left Review* 71: 5–29.](https://www.dropbox.com/s/8uz9c7nohfkr19v/Streeck_Democratic_Capitalism_2011.pdf?dl=0)
 
@@ -207,7 +206,7 @@ Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New
 
 - Crozier, Michel J, Samuel P Huntington, and Joji Watanuki. 1975. The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission. New York University Press: New York.
 
-##### Week 4. Public Management and Democracy
+### Week 4. Public Management and Democracy
 
 Can public service bureaucracies realistically be controlled by democratic forces? Can public managers be carriers of democratic values? 
 Is the concept of public value helpful, flawed or incoherent? What institutional measures and others changes would support the delivering of public services able to meet the challenges laid out in the public value argument?  
@@ -216,50 +215,50 @@ Is the concept of public value helpful, flawed or incoherent? What institutional
 
 **Required Reading** 
 
-[Gerry Stoker ‘Public Value Management: A New Narrative for Networked Governance? The American Review of Public Administration, 2006](http://wiki.dbast.com/images/5/59/Public_value_management_%E2%80%93_A_new_narrative_for_networked_governance.pdf)
+- [Gerry Stoker ‘Public Value Management: A New Narrative for Networked Governance? The American Review of Public Administration, 2006](http://wiki.dbast.com/images/5/59/Public_value_management_%E2%80%93_A_new_narrative_for_networked_governance.pdf)
 
 **Suggested Reading**
 
-Francesca Gains and Gerry Stoker “Delivering ‘Public Value’: Implications for Accountability and Legitimacy” Parliamentary Affairs (2009) 62(3): 438-455.
+- Francesca Gains and Gerry Stoker “Delivering ‘Public Value’: Implications for Accountability and Legitimacy” Parliamentary Affairs (2009) 62(3): 438-455.
 
-Moore, M. 1995. Creating Public Value: Strategic Management in Government. Cambridge, MA: Harvard University Press.
+- Moore, M. 1995. Creating Public Value: Strategic Management in Government. Cambridge, MA: Harvard University Press.
 
-[Moore, M. 2003. The Public Value Scorecard: A Rejoinder and an Alternative to ‘Strategic Performance Measurement and Management in Non-Profit Organizations’ by Robert Kaplan. The Hauser Center for Nonprofit Organizations Working Paper No. 18. Boston: Harvard University (30 June 2009)](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=402880)
+- [Moore, M. 2003. The Public Value Scorecard: A Rejoinder and an Alternative to ‘Strategic Performance Measurement and Management in Non-Profit Organizations’ by Robert Kaplan. The Hauser Center for Nonprofit Organizations Working Paper No. 18. Boston: Harvard University (30 June 2009)](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=402880)
 
-[Moore, M. and S. Khagram. 2004. On Creating Public Value: What Business Might Learn from Government about Strategic Management. Corporate Social Responsibility Initiative Working Paper No. 3. Cambridge, MA: John F. Kennedy School of Government, Harvard University (30 June 2009)](http://www.hks.harvard.edu/m-rcbg/CSRI/publications/workingpaper_3_moore_khagram.pdf).
+- [Moore, M. and S. Khagram. 2004. On Creating Public Value: What Business Might Learn from Government about Strategic Management. Corporate Social Responsibility Initiative Working Paper No. 3. Cambridge, MA: John F. Kennedy School of Government, Harvard University (30 June 2009)](http://www.hks.harvard.edu/m-rcbg/CSRI/publications/workingpaper_3_moore_khagram.pdf).
 
-Benington J and M. Moore. (Eds.) 2011 Public Value: The Theory and Practice. Basingstoke: Palgrave.
+- Benington J and M. Moore. (Eds.) 2011 Public Value: The Theory and Practice. Basingstoke: Palgrave.
 
 **Background Reading** 
 
-The Work Foundation in the UK provided a series of reports on public value: some are listed below but there are more.
+- The Work Foundation in the UK provided a series of reports on public value: some are listed below but there are more.
 
-[Ricardo Blaug, Louise Horner and Rohit Lekhi (2006) Public value, politics and public management. A literature review.](http://www.theworkfoundation.com/Reports/117/Public-value-politics-and-public-management-A-literature-review)
+- [Ricardo Blaug, Louise Horner and Rohit Lekhi (2006) Public value, politics and public management. A literature review.](http://www.theworkfoundation.com/Reports/117/Public-value-politics-and-public-management-A-literature-review)
 
-[Coats, D. and E. Passmore. 2008. Public Value: The Next Steps in Public Service Reform. London: The Work Foundation.](http://www.theworkfoundation.com/Reports/201/Public-Value-The-Next-Steps-in-Public-Service-Reform)
+- [Coats, D. and E. Passmore. 2008. Public Value: The Next Steps in Public Service Reform. London: The Work Foundation.](http://www.theworkfoundation.com/Reports/201/Public-Value-The-Next-Steps-in-Public-Service-Reform)
 
-[Louise Horner, Rebecca Fauth and Michelle Mahdon (2006) Creating public value: case studies](http://www.theworkfoundation.com/Reports/108/Creating-public-value-case-studies)
+- [Louise Horner, Rebecca Fauth and Michelle Mahdon (2006) Creating public value: case studies](http://www.theworkfoundation.com/Reports/108/Creating-public-value-case-studies)
 
-[Hills, D., and F. Sullivan. 2006. Measuring public value 2: Practical approaches. London: The Work Foundation](http://www.theworkfoundation.com/Reports/171/Measuring-public-value-2-Practical-approaches)
+- [Hills, D., and F. Sullivan. 2006. Measuring public value 2: Practical approaches. London: The Work Foundation](http://www.theworkfoundation.com/Reports/171/Measuring-public-value-2-Practical-approaches)
 
-The think tank IPPR in UK seems to be revisiting the ideas from a different angle:
+- The think tank IPPR in UK seems to be revisiting the ideas from a different angle:
 
-[Editor(s):  Rick Muir, Graeme Cooke (2012) The relational state: How recognising the importance of human relationships could revolutionise the role of the state.](http://www.ippr.org/publication/55/9888/the-relational-state-how-recognising-the-importance-of-human-relationships-could-revolutionise-the-role-of-the-state)
+- [Editor(s):  Rick Muir, Graeme Cooke (2012) The relational state: How recognising the importance of human relationships could revolutionise the role of the state.](http://www.ippr.org/publication/55/9888/the-relational-state-how-recognising-the-importance-of-human-relationships-could-revolutionise-the-role-of-the-state)
 
 Other relevant and related books and authors:
 
-C. Bason (2010) Leading Public Sector Innovation Bristol: The Policy Press.
+- C. Bason (2010) Leading Public Sector Innovation Bristol: The Policy Press.
 
-Alford, J. and O’Flynn, J. (2012), Rethinking Public Service Delivery: Managing with External Providers, Palgrave Macmillan, Basingstoke.
+- Alford, J. and O’Flynn, J. (2012), Rethinking Public Service Delivery: Managing with External Providers, Palgrave Macmillan, Basingstoke.
 
-[Barry Quirk (2010) Re-imagining Government Palgrave Macmillan, Basingstoke](http://www.barryquirk.com/)
+- [Barry Quirk (2010) Re-imagining Government Palgrave Macmillan, Basingstoke](http://www.barryquirk.com/)
 S. Griffiths, H. Kippin and G. Stoker (eds) (2013)  Public Services: A New Reform Agenda London: Bloomsbury Academic, 2013 pp282 
 
 **Case Study Options**
 
 Choose a public service and look at the application of public value thinking to it. What are the chances of success?  
  
-##### Week 5. Long-Term Thinking in Public Policy and Democracy
+### Week 5. Long-Term Thinking in Public Policy and Democracy
 
 Democracy is often accused on being inherently myopic but why is that? How to define what is long-term policy making? Is it the case that democracies are short-term in their policy-making compared to other forms of government (authoritarian regimes for example?) What institutional, process and power dynamics might support greater prospects fro long-term policy-making?  
 
@@ -331,7 +330,7 @@ Matsubayashi, Tetsuya, and Rene R Rocha. 2012. “Racial Diversity and Public Po
 Page, Benjamin I, and Robert Y Shapiro. 1983. “Effects of Public Opinion on Policy.” The American political science review 77(1): 175.
 
 
-##### Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy?
+### Week 7. Does “Fast Thinking” Undermine the Prospects for Both Democracy and Public Policy?
 
 Questions to consider: 
 Does the distinction between fast and slow thinking in Daniel Kahneman’s work hold? Why is fast thinking so dominant? Do you agree that too much fast thinking carries costs for policy making? What institutional or other devices could be developed to limit the impact of fast thinking and create the opportunity for more slow thinking in public policy formulation?  
@@ -422,7 +421,7 @@ Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Econ
 
 
 
-##### Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform
+### Week 9. Competing Theories of Democratic Failure and Designing Policies for Democratic Reform
 
 Can we design policies to support, sustain or improve democratic practice? What are the failings of democracy that policy should be trying to address? Can we expect political elites to be able to lead a process of reform of the politics they have largely constructed? Your policy for reforming democracy should match your theory of democracy. Do you agree?
 

@@ -191,7 +191,7 @@ Frieden, J A. 2007. *Global Capitalism: Its Fall and Rise in the Twentieth Centu
 
 What is "neoliberalism" and how does it contrast with embedded liberalism and the Keynesian "social pacts" which were the norm of the post-war period? What is the nature of public policymaking under neoliberalism? Who has benefitted from neoliberal policies, and who has been harmed? How does the history of the neoliberal policy project help explain the contemporary politics of policymaking, for instance policymaking before and after the 2008 financial crisis?
 
-- Chapter 1 of [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://www.dropbox.com/s/m084eiqs8li0833/Harvey_Neoliberalism_2005.pdf?dl=0) Chapter 1, 5-38.
+- [Harvey, David. 2005. *A Brief History of Neoliberalism.* New York: Oxford University Press.](https://www.dropbox.com/s/m084eiqs8li0833/Harvey_Neoliberalism_2005.pdf?dl=0) Chapter 1, 5-38.
 
 - [Klein, Naomi. 2010. *The Shock Doctrine: The Rise of Disaster Capitalism.* Henry Holt and Company: New York.](https://www.dropbox.com/s/hdct784wx1upuli/Klein_Shock_Doctrine_2012.pdf?dl=0) 3-21 (Introduction); 49-71 (Chapter 2).
 
@@ -205,12 +205,14 @@ Panitch, Leo, and Colin Leys. 2001. The End of Parliamentary Socialism: From New
 
 - [Streeck, Wolfgang. 2012. “Citizens as Customers.” New Left Review 76: 27–47.](https://www.dropbox.com/s/31x1tomi3hk5mdk/Streeck_Citizens_as_Customers_2012.pdf?dl=0)
 
-Crozier, Michel J, Samuel P Huntington, and Joji Watanuki. 1975. The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission. New York University Press: New York.
+- Crozier, Michel J, Samuel P Huntington, and Joji Watanuki. 1975. The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission. New York University Press: New York.
 
 ##### Week 4. Public Management and Democracy
 
 Can public service bureaucracies realistically be controlled by democratic forces? Can public managers be carriers of democratic values? 
 Is the concept of public value helpful, flawed or incoherent? What institutional measures and others changes would support the delivering of public services able to meet the challenges laid out in the public value argument?  
+
+- [Slides](https://www.dropbox.com/s/tucjfmo9cw7doct/Stoker_Demoracy_Public_Value_and_Delivery.pptx?dl=0) 
 
 **Required Reading** 
 

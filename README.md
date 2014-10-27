@@ -262,10 +262,13 @@ Choose a public service and look at the application of public value thinking to 
 
 Democracy is often accused on being inherently myopic but why is that? How to define what is long-term policy making? Is it the case that democracies are short-term in their policy-making compared to other forms of government (authoritarian regimes for example?) What institutional, process and power dynamics might support greater prospects fro long-term policy-making?  
 
-**Required Reading**
-[Alan Jacobs (2011) Governing for the Long Term: Democracy and the Politics of Investment (Cambridge, 2011)](http://www.politics.ubc.ca/fileadmin/user_upload/poli_sci/Faculty/jacobs/Frontmatter_Chapter_1_-_9780521195850_-_Jacobs_-_Governing_for_the_Long__Term.pdf)
+- [Slides](https://www.dropbox.com/s/h1anfldakvo5ua9/PAIR%206009%20Democracy%20and%20Long-Term%20Policy%20Making%20%20Stoker.pptx?dl=0) 
 
-[See also papers delivered to ECPR Glasgow Conference 2014](http://ecpr.eu/Events/PanelDetails.aspx?PanelID=3164&EventID=14)
+**Required Reading**
+
+- [Alan Jacobs (2011) Governing for the Long Term: Democracy and the Politics of Investment (Cambridge, 2011)](http://www.politics.ubc.ca/fileadmin/user_upload/poli_sci/Faculty/jacobs/Frontmatter_Chapter_1_-_9780521195850_-_Jacobs_-_Governing_for_the_Long__Term.pdf)
+
+- [See also papers delivered to ECPR Glasgow Conference 2014](http://ecpr.eu/Events/PanelDetails.aspx?PanelID=3164&EventID=14). Including [this piece by MacKenzie.](https://www.dropbox.com/s/78rde99nrkorkhi/MacKenzie%20-%20Institutional%20Design%20and%20Sources%20of%20Short-Termism%20-%20ECPR%20Glasgow%202014.pdf?dl=0) 
 
 **Suggested Reading**
 

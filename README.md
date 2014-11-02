@@ -310,9 +310,9 @@ Does public opinion drive public policy? Does public opinion react to public pol
 
 **Required Readings**
 
-Soroka, Stuart N, and Christopher Wlezien. 2005. “Opinion–Policy Dynamics: Public Preferences and Public Expenditure in the United Kingdom.” British Journal of Political Science 35(04): 665–89.
+- [Soroka, Stuart N, and Christopher Wlezien. 2005. “Opinion–Policy Dynamics: Public Preferences and Public Expenditure in the United Kingdom.” British Journal of Political Science 35(04): 665–89.](https://www.dropbox.com/s/4ti4bjsdxgcezrs/Soroka_Wlezien_2005.pdf?dl=0)
 
-Shapiro, Robert Y. (2011), ‘Public Opinion and American Democracy.’ Public Opinion Quarterly 75(5): 982-1017. 
+- [Shapiro, Robert Y. (2011), ‘Public Opinion and American Democracy.’ Public Opinion Quarterly 75(5): 982-1017.](https://www.dropbox.com/s/dar8bypca01l58h/Shapiro_2011.pdf?dl=0)
 
 **Suggested Readings**
 

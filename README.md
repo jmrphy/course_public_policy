@@ -338,6 +338,8 @@ Page, Benjamin I, and Robert Y Shapiro. 1983. “Effects of Public Opinion on Po
 Questions to consider: 
 Does the distinction between fast and slow thinking in Daniel Kahneman’s work hold? Why is fast thinking so dominant? Do you agree that too much fast thinking carries costs for policy making? What institutional or other devices could be developed to limit the impact of fast thinking and create the opportunity for more slow thinking in public policy formulation?  
 
+-[Slides](https://www.dropbox.com/s/fq85k8x3i4a819x/Stoker_Fast_thinking_PAIR_6009.pptx?dl=0)
+
 **Required Reading**
 
 [Gerry Stoker, Colin Hay and Matt Barr “Exploring the Consequences of Fast Thinking about Politics” Paper for the PSA/University of Kent conference on “CITIZENS AND POLITICS IN BRITAIN TODAY: STILL A ‘CIVIC CULTURE’?” 26th September 2013, London.](http://www.kent.ac.uk/politics/research/comparativegroup/Stoker-paper.pdf)

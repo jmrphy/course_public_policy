@@ -396,15 +396,15 @@ Explore the implications of the systematic errors in human cognition for the con
 
 **Required Readings**
 
-Hay, Colin, and Ben Rosamond. 2011. “Globalization, European Integration and the Discursive Construction of Economic Imperatives.” Journal of European Public Policy 9(2): 147–67.
+[Hay, Colin, and Ben Rosamond. 2011. “Globalization, European Integration and the Discursive Construction of Economic Imperatives.” Journal of European Public Policy 9(2): 147–67.](https://www.dropbox.com/s/103o6imfoup2zwc/Hay_Rosamond_2011.pdf?dl=0)
 
-Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In The Oxford Handbook of American Public Opinion and the Media, eds. Robert Y Shapiro and Lawrence R Jacobs. 589–604.
+[Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In The Oxford Handbook of American Public Opinion and the Media, eds. Robert Y Shapiro and Lawrence R Jacobs. 589–604.](https://www.dropbox.com/s/ysl6t9i1p3pfimo/Barabas_Economics_Media_Opinion_2011.pdf?dl=0)
 
-Gilens, Martin. 2005. “Inequality and Democratic Responsiveness.” Public Opinion Quarterly 69(5): 778–96.
+[Gilens, Martin. 2005. “Inequality and Democratic Responsiveness.” Public Opinion Quarterly 69(5): 778–96.](http://qipsr.as.uky.edu/sites/default/files/Gilens-Inequality%20and%20Democratic%20Responsiveness-POQ.pdf)
 
 **Suggested Readings**
 
-- [Simmons, Beth A, and ZACHARY ELKINS. 2004. “The Globalization of Liberalization: Policy Diffusion in the International Political Economy.” American Political Science Review 98(01): 171–89.]
+- [Simmons, Beth A, and ZACHARY ELKINS. 2004. “The Globalization of Liberalization: Policy Diffusion in the International Political Economy.” American Political Science Review 98(01): 171–89.](https://www.dropbox.com/s/r5g98e8pektogd6/Simmons_Elkins_2004.pdf?dl=0)
 
 - [Drezner, Daniel W. 2001. “Globalization and Policy Convergence.” International Studies Review 3(1): 53–78.]
 

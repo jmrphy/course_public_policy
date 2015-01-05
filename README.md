@@ -136,7 +136,7 @@ Submit an electronic copy of your essay via Turnitin to the Blackboard site on M
 
 The subject and title of your case study must be agreed with one or both of the co-conveners by 3.00pm on November 10, 2014. This can be done via email correspondence or via appointment. You will give a presentation about your case study during the seminar on December 1, 2014.
 
-The completed case study must be submitted via Turnitin to the Blackboard site on Monday, January 9, 2015.
+The completed case study must be submitted via Turnitin to the Blackboard site on Monday, January 12, 2015.
 
 Extensions can only be arranged by meeting with the MSc Coordinator (Dr Pia Riggirozzi) in advance. Coursework submitted late without an agreed extension will face the appropriate penalty as outlined in the Postgraduate Handbook.
 
